@@ -29,5 +29,5 @@ _<h3 align="center">Innovative Machine Learning Engineer with significant backgr
 <img src="https://th.bing.com/th/id/R.d0e38ba939b6ca40e49813856ff35e3c?rik=KSFFVtydeZIMEw&pid=ImgRaw&r=0" alt="git" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.b50253824e57c928d37dbe2292a0a610?rik=SRC6YlDuTa9xvQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-3QrRt8hx9ZM%2fVoqbG1_W78I%2fAAAAAAAAEe4%2fyN3MZvvHI4Q%2fs1600%2faws.png&ehk=5FQNrfuAXftqzYSCGLPskB%2f4vI82HT5Sr9T%2bRiFQzJU%3d&risl=&pid=ImgRaw&r=0" alt="aws" width="40" height="40"/> </a>
 </p> 
