@@ -13,8 +13,8 @@ _<h3 align="center">Innovative Machine Learning Engineer with significant backgr
 
 **<h2 align="left">Connect with me:</h2>**
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/the_phantom999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/the_phantom999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emmanueladewole999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanueladewole999/" height="30" width="40" /></a>
+<a href="https://twitter.com/the_phantom999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/the_phantom999" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanueladewole999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanueladewole999/" height="30" width="40" /></a>
 </p>
 
 **<h2 align="left">Languages and Tools </h2>**
